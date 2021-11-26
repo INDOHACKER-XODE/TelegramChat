@@ -1,0 +1,24 @@
+{
+  "name": "TelegramChat",
+  "description": "Bot anonymous chat.",
+  "repository": "https://github.com/kenkansaja/TelegramChat",
+  "logo": "https://telegra.ph/file/de3e9d2a021c2ac516b12.jpg",
+  "env": {
+    "TOKEN": {
+      "description": "Dapatkan di @botfather",
+      "value": ""
+    },
+    "OWNER": {
+      "description": "Isi dengan username kalian tanpa tanda @",
+      "value": "kenkanasw"
+    },
+    "GROUP": {
+      "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
+      "value": "musikkugroup"
+    },
+    "CHANNEL": {
+      "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
+      "value": "musikkuchannel"
+    }
+  }
+}
